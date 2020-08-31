@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    
+    background-color: rgb(221, 221, 221);
+}
+
+.menu{
+    background-color: darkgreen;
+    height: 70px;
+    position: relative;
+}
+
+#primeiro{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#titulo{
+    background-color: rgb(104, 104, 104);
+    padding: 1px;
+    height: 70px;
+}
+
+#conteudo{
+    text-align: justify;
+    padding-top: 40px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+#h1conteudo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#pobrezaimg{
+    text-align: center;
+    padding-top: 10px;
+}
